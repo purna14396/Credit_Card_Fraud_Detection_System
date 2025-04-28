@@ -1,0 +1,35 @@
+body {
+    background-color: #e0f7fa;
+    font-family: Arial, sans-serif;
+    color: #0077b6;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    padding: 50px;
+}
+
+input[type="text"] {
+    width: 50%;
+    padding: 8px;
+    margin: 10px 0;
+    border: 1px solid #0077b6;
+    border-radius: 5px;
+}
+
+.btn {
+    background-color: #00bcd4;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    margin-top: 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+.btn:hover {
+    background-color: #008ba3;
+}
