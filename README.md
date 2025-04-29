@@ -103,6 +103,20 @@ The dataset is highly **imbalanced** with a very small percentage of fraudulent 
   - Light blue-themed interface for better UX.
   - "Project Overview" page describing methodology and workflow.
   - "Prediction" page allowing users to input transaction data and get real-time predictions.
+
+<!-- Image 3 -->
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/9404f04e-59f5-422d-a4d5-f214bfee03c8" alt="Image" width="700" height="400"/>
+</div>
+
+<br><br>
+
+<!-- Image 4 -->
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/99a6df08-67c9-403d-bf49-3f7374d2b5c6" alt="Image" width="700" height="400"/>
+</div>
+
+
 - **Input Handling**:
   - Accepts 30 features (Time, V1–V28, Amount) space-separated.
   - Automatically scales the Amount field.
