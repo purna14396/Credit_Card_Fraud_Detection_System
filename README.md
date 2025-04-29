@@ -2,7 +2,10 @@
 
 ---
 
-[Live Now](https://credit-card-fraud-detection-system-frgp.onrender.com)
+## Live Demo
+
+You can view the deployed project here: [Live Link](https://credit-card-fraud-detection-system-frgp.onrender.com)
+
 
 ## 🛡️ Problem Statement
 
@@ -18,7 +21,7 @@ Credit card fraud involves unauthorized transactions performed either by physica
 This project focuses on developing a machine learning-based fraud detection model using real transaction data, where advanced algorithms are trained to recognize patterns indicative of fraudulent behavior.  
 Special emphasis is placed on handling class imbalance, which is common in fraud detection datasets.
 
-> **Keywords:** Credit Card Fraud Detection, Machine Learning, Logistic Regression, Decision Tree, Random Forest, Fraudulent Transactions
+> **Keywords:** Credit Card Fraud Detection, Machine Learning, Logistic Regression, Decision Tree, Random Forest, Fraudulent Transactions , Handling Imbalanced Dataset
 
 ---
 
@@ -67,6 +70,7 @@ The dataset is highly **imbalanced** with a very small percentage of fraudulent 
    - Developed a simple **Flask web application** with two pages:
      - Project Overview
      - Fraud Prediction
+     - The Flask application is deployed on Render.
 
 ---
 
@@ -99,7 +103,7 @@ The dataset is highly **imbalanced** with a very small percentage of fraudulent 
   - Accepts 30 features (Time, V1–V28, Amount) space-separated.
   - Automatically scales the Amount field.
   - Ignores Time internally during prediction.
-- **Deployment Ready**: Designed for easy extension into production environments.
+- **Deployment**: The Flask application is deployed on Render.
 
 ---
 
@@ -124,6 +128,6 @@ The system was further deployed as a simple Flask application, making it easy to
 
 - 📁 **Dataset:** [Credit Card Fraud Dataset (Kaggle)](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 - 🛠 **Model File:** `credit_card_fraud_detection_model.pkl`
-- 🌐 **Web Pages:**
+- 🌐 **Web Pages:** [Web Page](https://credit-card-fraud-detection-system-frgp.onrender.com)
 
 ---
