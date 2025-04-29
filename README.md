@@ -90,6 +90,10 @@ The dataset is highly **imbalanced** with a very small percentage of fraudulent 
 - **Recall** was prioritized to minimize undetected fraud cases.
 - **Random Forest Classifier** outperformed other models with a strong Recall and Precision after oversampling.
 - Models after **oversampling** showed significantly better detection of fraud transactions compared to undersampling.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3a498fa8-cd0c-4f67-9c55-6f78f2cc18a4" alt="ConverseLearn Banner" width="600"/>
+</p>
+
 
 ---
 
